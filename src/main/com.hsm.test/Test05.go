@@ -12,6 +12,9 @@ func main() {
 	ret = max(a, b)
 
 	fmt.Printf("最大值是 : %d\n", ret)
+
+	aa, bb := swap("Google", "Runoob")
+	fmt.Println(aa, bb)
 }
 
 /* 函数返回两个数的最大值 */
@@ -25,4 +28,9 @@ func max(num1, num2 int) int {
 		result = num2
 	}
 	return result
+}
+
+// 函数返回多个值
+func swap(x, y string) (string, string) {
+	return y, x
 }
