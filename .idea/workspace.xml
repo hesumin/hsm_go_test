@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="856bfbe2-1906-4ac5-b793-2fcb79e7ce09" name="Changes" comment="Map">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com.hsm.test/Test10.go" afterDir="false" />
+    <list default="true" id="856bfbe2-1906-4ac5-b793-2fcb79e7ce09" name="Changes" comment="文件目录遍历">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +51,7 @@
     "Go Build.Test10.executor": "Run",
     "Go Build.go build Test07.go.executor": "Debug",
     "Go Build.go build Test08.go.executor": "Debug",
+    "Go Build.go build Test11.go.executor": "Run",
     "Go Build.go build demo/src/main/com.hsm.Test02.executor": "Run",
     "Go Build.go build demo/src/main/com.hsm.test.Test05.executor": "Run",
     "Go Build.go build demo/src/main/com.hsm.test.Test06.executor": "Run",
@@ -184,7 +183,9 @@
     <MESSAGE value="数组" />
     <MESSAGE value="range范围取值" />
     <MESSAGE value="Map" />
-    <option name="LAST_COMMIT_MESSAGE" value="Map" />
+    <MESSAGE value="递归" />
+    <MESSAGE value="文件目录遍历" />
+    <option name="LAST_COMMIT_MESSAGE" value="文件目录遍历" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
