@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="856bfbe2-1906-4ac5-b793-2fcb79e7ce09" name="Changes" comment="文件目录遍历" />
+    <list default="true" id="856bfbe2-1906-4ac5-b793-2fcb79e7ce09" name="Changes" comment="文件目录遍历">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com.hsm.test/Test01.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com.hsm.test/Test01.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,18 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "hesumin"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hesumin&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/hesumin/hsm_go_test.git",
-    "accountId": "2663aa40-c987-4238-a908-ae3313d04de4"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hesumin/hsm_go_test.git&quot;,
+    &quot;accountId&quot;: &quot;2663aa40-c987-4238-a908-ae3313d04de4&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -42,36 +45,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultGoTemplateProperty": "Go Application",
-    "Go Build.Test09.executor": "Run",
-    "Go Build.Test10.executor": "Run",
-    "Go Build.go build Test07.go.executor": "Debug",
-    "Go Build.go build Test08.go.executor": "Debug",
-    "Go Build.go build Test11.go.executor": "Run",
-    "Go Build.go build demo/src/main/com.hsm.Test02.executor": "Run",
-    "Go Build.go build demo/src/main/com.hsm.test.Test05.executor": "Run",
-    "Go Build.go build demo/src/main/com.hsm.test.Test06.executor": "Run",
-    "Go Build.go build demo/src/main/com.hsm.test.executor": "Run",
-    "Go Build.go build demo/src/main/com.hsm.test01.executor": "Run",
-    "Go Build.go build main.go.executor": "Debug",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "git-widget-placeholder": "master",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "E:/goProject/hsm_go_test",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.configurations.included.in.services": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go Application&quot;,
+    &quot;Go Build.Test09.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.Test10.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build Test01.go.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build Test07.go.executor&quot;: &quot;Debug&quot;,
+    &quot;Go Build.go build Test08.go.executor&quot;: &quot;Debug&quot;,
+    &quot;Go Build.go build Test11.go.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build demo/src/main/com.hsm.Test02.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build demo/src/main/com.hsm.test.Test05.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build demo/src/main/com.hsm.test.Test06.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build demo/src/main/com.hsm.test.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build demo/src/main/com.hsm.test01.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build main.go.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/goProject/hsm_go_test&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -79,7 +83,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build Test11.go">
+  <component name="RunManager" selected="Go Build.go build Test01.go">
     <configuration name="Test09" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="hsm_go_test" />
       <working_directory value="$PROJECT_DIR$" />
@@ -96,6 +100,15 @@
       <package value="demo/src/main/com.hsm.test" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/src/main/com.hsm.test/Test10.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Test01.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="hsm_go_test" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="demo" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/main/com.hsm.test/Test01.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build Test08.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -116,29 +129,20 @@
       <filePath value="$PROJECT_DIR$/src/main/com.hsm.test/Test11.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build demo/src/main/com.hsm.test.Test06" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
-      <module name="hsm_go_test" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <package value="demo/src/main/com.hsm.test" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/main/com.hsm.test/Test06.go" />
-      <method v="2" />
-    </configuration>
     <list>
+      <item itemvalue="Go Build.go build Test01.go" />
       <item itemvalue="Go Build.Test09" />
       <item itemvalue="Go Build.Test10" />
       <item itemvalue="Go Build.go build Test08.go" />
       <item itemvalue="Go Build.go build Test11.go" />
-      <item itemvalue="Go Build.go build demo/src/main/com.hsm.test.Test06" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Test01.go" />
         <item itemvalue="Go Build.go build Test11.go" />
         <item itemvalue="Go Build.Test10" />
         <item itemvalue="Go Build.Test09" />
         <item itemvalue="Go Build.go build Test08.go" />
-        <item itemvalue="Go Build.go build demo/src/main/com.hsm.test.Test06" />
       </list>
     </recent_temporary>
   </component>
